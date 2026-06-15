@@ -1,0 +1,33 @@
+name: supermarket-price-direction
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pandas
+  - numpy
+  - scikit-learn
+  - xgboost
+  - imbalanced-learn
+  - matplotlib
+  - seaborn
+  - jupyterlab
+  - notebook
+  - scipy
+  - pip
+
+name: supermarket-price-direction
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pandas
+  - numpy
+  - scikit-learn
+  - xgboost
+  - imbalanced-learn
+  - matplotlib
+  - seaborn
+  - jupyterlab
+  - notebook
+  - scipy
+  - pip

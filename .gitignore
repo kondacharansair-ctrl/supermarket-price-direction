@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Conda / environments
+.env
+.venv/
+
+# Mac
+.DS_Store
+
+# Data folders - keep structure, ignore actual data
+data/raw/*
+data/interim/*
+data/processed/*
+!data/raw/.gitkeep
+!data/interim/.gitkeep
+!data/processed/.gitkeep
+
+# Regeneratable outputs
+figures/*
+results/*
+!figures/.gitkeep
+!results/.gitkeep
+
+
