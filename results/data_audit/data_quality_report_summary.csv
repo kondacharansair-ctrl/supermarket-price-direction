@@ -1,0 +1,5 @@
+hazard,main_metric,worst_retailer,worst_value_pct,output_table,output_figure
+Duplicate product-retailer-date keys,duplicated_rows_pct,Tesco,2.1529,hazard_duplicate_key_summary.csv,figure_hazard_duplicate_keys.png
+Implausible prices,rows_with_any_price_hazard_pct,Aldi,2.3723,hazard_implausible_price_summary.csv,figure_hazard_implausible_prices.png
+Capture-frequency gaps,missing_capture_days_pct,Tesco,5.2083,hazard_capture_gap_summary.csv,figure_hazard_capture_gaps.png
+Inconsistent product-name spelling,affected_rows_pct,Morrisons,0.6136,hazard_name_spelling_summary.csv,figure_hazard_name_spelling.png

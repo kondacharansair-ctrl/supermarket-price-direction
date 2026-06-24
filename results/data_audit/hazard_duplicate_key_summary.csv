@@ -1,0 +1,6 @@
+retailer,rows,duplicated_rows,duplicated_rows_pct,duplicate_key_groups
+ASDA,2456414,4,0.0002,2
+Aldi,464863,0,0.0,0
+Morrisons,1794065,0,0.0,0
+Sains,2600289,0,0.0,0
+Tesco,2213611,47656,2.1529,23828

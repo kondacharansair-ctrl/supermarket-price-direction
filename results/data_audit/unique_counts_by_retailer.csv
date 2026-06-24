@@ -1,0 +1,6 @@
+retailer_file,rows,unique_products,unique_categories,unique_price_values,unique_unit_price_values,unique_units
+ASDA,2456414,32660,11,826,2819,4
+Aldi,464863,7262,10,272,1156,4
+Morrisons,1794065,26187,11,800,2507,4
+Sains,2600289,33886,11,846,3014,4
+Tesco,2213611,30637,10,951,3104,4

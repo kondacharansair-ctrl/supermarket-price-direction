@@ -1,0 +1,6 @@
+retailer_file,rows,min_date,max_date,observed_dates,calendar_days_in_range,missing_capture_days
+ASDA,2456414,2024-01-09,2024-04-13,92,96,4
+Aldi,464863,2024-01-09,2024-04-13,92,96,4
+Morrisons,1794065,2024-01-09,2024-04-13,92,96,4
+Sains,2600289,2024-01-09,2024-04-13,92,96,4
+Tesco,2213611,2024-01-09,2024-04-13,91,96,5

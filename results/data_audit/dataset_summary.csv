@@ -1,0 +1,6 @@
+retailer,rows,columns,column_names
+ASDA,2456414,8,"supermarket, prices_(£), prices_unit_(£), unit, names, date, category, own_brand"
+Aldi,464863,8,"supermarket, prices_(£), prices_unit_(£), unit, names, date, category, own_brand"
+Morrisons,1794065,8,"supermarket, prices_(£), prices_unit_(£), unit, names, date, category, own_brand"
+Sains,2600289,8,"supermarket, prices_(£), prices_unit_(£), unit, names, date, category, own_brand"
+Tesco,2213611,8,"supermarket, prices_(£), prices_unit_(£), unit, names, date, category, own_brand"

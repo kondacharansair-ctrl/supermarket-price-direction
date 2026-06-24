@@ -1,0 +1,6 @@
+retailer,rows,price_missing,price_zero_or_negative,price_above_99th_pct,unit_price_missing,unit_price_zero_or_negative,unit_price_above_99th_pct,rows_with_any_price_hazard,rows_with_any_price_hazard_pct
+ASDA,2456414,7,0,21039,199,1136,24503,46877,1.9084
+Aldi,464863,0,0,4489,4,2093,4446,11028,2.3723
+Morrisons,1794065,0,0,17736,110,764,17752,34410,1.918
+Sains,2600289,0,0,25985,209,3809,25965,53794,2.0688
+Tesco,2213611,0,3,21117,2,4794,22037,46398,2.096

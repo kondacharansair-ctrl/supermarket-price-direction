@@ -1,0 +1,6 @@
+retailer,missing_capture_days,calendar_days_in_range,observed_dates,missing_capture_days_pct
+ASDA,4,96,92,4.1667
+Aldi,4,96,92,4.1667
+Morrisons,4,96,92,4.1667
+Sains,4,96,92,4.1667
+Tesco,5,96,91,5.2083
