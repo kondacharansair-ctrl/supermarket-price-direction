@@ -1,0 +1,5 @@
+metric,rows,matches_expected
+rows_in_raw,9529242,True
+rows_removed_duplicate_keys,31651,True
+rows_out_tidy,9497591,True
+rows_in_minus_removed,9497591,True

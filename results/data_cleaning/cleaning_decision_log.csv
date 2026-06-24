@@ -1,0 +1,5 @@
+decision,rule,rows_affected,reason
+Duplicate key resolution,"For duplicate product_id-retailer-date keys, keep the row with the highest completeness score; if tied, keep the earliest raw row.",31651,A single product-retailer-date observation is required for time-series modelling.
+Product-name normalisation,"Create product_name_normalised using lowercase text, punctuation removal, and whitespace collapse; keep original product_name and save mapping.",130633,Product identifiers must be stable while preserving the original raw names.
+Capture gaps,Flag rows where the previous observation for the same product-retailer series is more than one day earlier; do not delete rows.,655945,Later lag and rolling features must avoid silently spanning missing capture periods.
+Final reconciliation,Rows out must equal rows in minus rows dropped as duplicate keys.,9497591,Cleaning must be auditable and row counts must reconcile exactly.
