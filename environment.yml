@@ -1,3 +1,4 @@
+  - pyarrow
 name: supermarket-price-direction
 channels:
   - conda-forge
